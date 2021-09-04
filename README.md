@@ -1,2 +1,3 @@
 # hello world
-deneme
+Hello i am trying to learn github.
+
